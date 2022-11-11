@@ -1,0 +1,17 @@
+* {
+  text-align: center;
+}
+
+table, th, td {
+    border: 1px solid;
+    padding:15px;
+    
+  }
+
+  table {
+    margin: auto;
+  }
+
+  
+
+ 
